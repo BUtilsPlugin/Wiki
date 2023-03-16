@@ -4,26 +4,10 @@
         <title>BUtils Documentation Blog</title>
         <link>https://docs.butils.net/blog</link>
         <description>BUtils Documentation Blog</description>
-        <lastBuildDate>Sat, 18 Mar 2023 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[BUtils.net Minecraft Server Release]]></title>
-            <link>https://docs.butils.net/blog/butils-net-release</link>
-            <guid>https://docs.butils.net/blog/butils-net-release</guid>
-            <pubDate>Sat, 18 Mar 2023 12:00:00 GMT</pubDate>
-            <description><![CDATA[The BUtils.net Minecraft network has been released today. Read this post to understand how it works.]]></description>
-            <content:encoded><![CDATA[<p>The BUtils.net Minecraft network has been released today. Read this post to understand how it works.</p><p><em>🇩🇪 Deutsche Version bei Read More</em></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-this">What is this?<a href="#what-is-this" class="hash-link" aria-label="Direct link to What is this?" title="Direct link to What is this?">​</a></h3><p>You can join <strong>BUtils.net</strong> with the Minecraft version <strong>1.19.3</strong>.
-Afterwards, you can use the chest to <strong>select</strong> or <strong>create</strong> servers.</p><p>You want to know more about BUtils.net? Continue reading here:
-<strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft Server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="giveaways">Giveaways<a href="#giveaways" class="hash-link" aria-label="Direct link to Giveaways" title="Direct link to Giveaways">​</a></h3><p>We will have giveaways on <strong><a href="/docs/category/butils-minecraft-server">DerBanko's Twitch channel</a></strong>.
-Tune in and maybe you get lucky.</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-das">Was ist das?<a href="#was-ist-das" class="hash-link" aria-label="Direct link to Was ist das?" title="Direct link to Was ist das?">​</a></h3><p>Du kannst <strong>BUtils.net</strong> mit der Minecraft-Version <strong>1.19.3</strong> betreten.
-Danach kannst Du die Truhe verwenden, um Server <strong>auszuwählen</strong> oder <strong>zu erstellen</strong>.</p><p>Du möchtest mehr über BUtils.net erfahren? Lies hier weiter:
-<strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft-Server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="giveaways-1">Giveaways<a href="#giveaways-1" class="hash-link" aria-label="Direct link to Giveaways" title="Direct link to Giveaways">​</a></h3><p>Auf <strong><a href="/docs/category/butils-minecraft-server">DerBankos Twitch-Kanal</a></strong> werden Giveaways veranstaltet.
-Schalte ein und vielleicht hast Du ja Glück.</p>]]></content:encoded>
-            <category>BUtils.net</category>
-            <category>Release</category>
-        </item>
         <item>
             <title><![CDATA[BUtils Wiki Release]]></title>
             <link>https://docs.butils.net/blog/wiki-release</link>

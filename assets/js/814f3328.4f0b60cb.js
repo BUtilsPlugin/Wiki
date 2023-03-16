@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbutils_wiki=self.webpackChunkbutils_wiki||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"BUtils.net Minecraft Server Release","permalink":"/blog/butils-net-release"},{"title":"BUtils Wiki Release","permalink":"/blog/wiki-release"}]}')}}]);
