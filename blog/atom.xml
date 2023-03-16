@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.butils.net/blog</id>
+    <title>BUtils Documentation Blog</title>
+    <updated>2023-03-18T12:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.butils.net/blog"/>
+    <subtitle>BUtils Documentation Blog</subtitle>
+    <icon>https://docs.butils.net/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BUtils.net Minecraft Server Release]]></title>
+        <id>https://docs.butils.net/blog/butils-net-release</id>
+        <link href="https://docs.butils.net/blog/butils-net-release"/>
+        <updated>2023-03-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The BUtils.net Minecraft network has been released today. Read this post to understand how it works.]]></summary>
+        <content type="html"><![CDATA[<p>The BUtils.net Minecraft network has been released today. Read this post to understand how it works.</p><p><em>🇩🇪 Deutsche Version bei Read More</em></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-this">What is this?<a href="#what-is-this" class="hash-link" aria-label="Direct link to What is this?" title="Direct link to What is this?">​</a></h3><p>You can join <strong>BUtils.net</strong> with the Minecraft version <strong>1.19.3</strong>.
+Afterwards, you can use the chest to <strong>select</strong> or <strong>create</strong> servers.</p><p>You want to know more about BUtils.net? Continue reading here:
+<strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft Server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="giveaways">Giveaways<a href="#giveaways" class="hash-link" aria-label="Direct link to Giveaways" title="Direct link to Giveaways">​</a></h3><p>We will have giveaways on <strong><a href="/docs/category/butils-minecraft-server">DerBanko's Twitch channel</a></strong>.
+Tune in and maybe you get lucky.</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="was-ist-das">Was ist das?<a href="#was-ist-das" class="hash-link" aria-label="Direct link to Was ist das?" title="Direct link to Was ist das?">​</a></h3><p>Du kannst <strong>BUtils.net</strong> mit der Minecraft-Version <strong>1.19.3</strong> betreten.
+Danach kannst Du die Truhe verwenden, um Server <strong>auszuwählen</strong> oder <strong>zu erstellen</strong>.</p><p>Du möchtest mehr über BUtils.net erfahren? Lies hier weiter:
+<strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft-Server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="giveaways-1">Giveaways<a href="#giveaways-1" class="hash-link" aria-label="Direct link to Giveaways" title="Direct link to Giveaways">​</a></h3><p>Auf <strong><a href="/docs/category/butils-minecraft-server">DerBankos Twitch-Kanal</a></strong> werden Giveaways veranstaltet.
+Schalte ein und vielleicht hast Du ja Glück.</p>]]></content>
+        <author>
+            <name>DerBanko</name>
+            <uri>https://twitch.tv/DerBanko</uri>
+        </author>
+        <category label="BUtils.net" term="BUtils.net"/>
+        <category label="Release" term="Release"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BUtils Wiki Release]]></title>
+        <id>https://docs.butils.net/blog/wiki-release</id>
+        <link href="https://docs.butils.net/blog/wiki-release"/>
+        <updated>2023-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the official BUtils documentation and blog posts.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the official BUtils documentation and blog posts.</p><p><em>🇩🇪 Deutsche Version bei Read More</em></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="documentation">Documentation<a href="#documentation" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation">​</a></h3><p>In the <strong><a href="/docs/intro">documentation</a></strong>, you will have an updated overview about <strong>BUtils 5</strong>.</p><p>There are several categories regarding the <strong><a href="/docs/category/butils-minecraft-plugin">BUtils Minecraft Challenge plugin</a></strong>,
+our <strong><a href="/docs/category/butils-discord-server">Discord server and its shopping system</a></strong> and
+the <strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="news--changelogs">News &amp; Changelogs<a href="#news--changelogs" class="hash-link" aria-label="Direct link to News &amp; Changelogs" title="Direct link to News &amp; Changelogs">​</a></h3><p>If there are any news regarding BUtils, you will have a blog post here.
+Additionally, there will be a short version of any news on our <strong><a href="https://butils.net/discord" target="_blank" rel="noopener noreferrer">Discord server</a></strong> in the #news channel (currently only in German).</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3><p>Feel free to ask questions to the BUtils team on our <strong><a href="https://butils.net/discord" target="_blank" rel="noopener noreferrer">Discord server</a></strong> in the #support channel.</p><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentation">Dokumentation<a href="#dokumentation" class="hash-link" aria-label="Direct link to Dokumentation" title="Direct link to Dokumentation">​</a></h3><p>In der <strong><a href="/docs/intro">Dokumentation</a></strong> (derzeit nur in Englisch verfügbar) findest Du eine aktualisierte Übersicht von <strong>BUtils 5</strong>.</p><p>Es gibt verschiedene Kategorien: <strong><a href="/docs/category/butils-minecraft-plugin">BUtils Minecraft Challenge Plugin</a></strong>,
+<strong><a href="/docs/category/butils-discord-server">Discord-Server und das Shopping-System</a></strong> und
+<strong><a href="/docs/category/butils-minecraft-server">BUtils.net Minecraft Server</a></strong>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="neuigkeiten--changelogs">Neuigkeiten &amp; Changelogs<a href="#neuigkeiten--changelogs" class="hash-link" aria-label="Direct link to Neuigkeiten &amp; Changelogs" title="Direct link to Neuigkeiten &amp; Changelogs">​</a></h3><p>Wenn es Neuigkeiten über BUtils gibt, wird es hier einen Blogpost geben.
+Zusätzlich kannst Du eine kurze Version der Neuigkeiten auf unserem <strong><a href="https://butils.net/discord" target="_blank" rel="noopener noreferrer">Discord Server</a></strong> im #news Channel finden.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="fragen">Fragen<a href="#fragen" class="hash-link" aria-label="Direct link to Fragen" title="Direct link to Fragen">​</a></h3><p>Auf unserem <strong><a href="https://butils.net/discord" target="_blank" rel="noopener noreferrer">Discord-Server</a></strong> im #support Channel kannst Du Fragen an das BUtils Team stellen.</p>]]></content>
+        <author>
+            <name>DerBanko</name>
+            <uri>https://twitch.tv/DerBanko</uri>
+        </author>
+        <category label="Wiki" term="Wiki"/>
+        <category label="Release" term="Release"/>
+    </entry>
+</feed>

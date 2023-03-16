@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbutils_wiki=self.webpackChunkbutils_wiki||[]).push([[598],{2781:i=>{i.exports=JSON.parse('{"label":"Wiki","permalink":"/blog/tags/wiki","allTagsPath":"/blog/tags","count":1}')}}]);

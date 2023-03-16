@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbutils_wiki=self.webpackChunkbutils_wiki||[]).push([[332],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

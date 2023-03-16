@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbutils_wiki=self.webpackChunkbutils_wiki||[]).push([[205],{3672:e=>{e.exports=JSON.parse('{"label":"Release","permalink":"/blog/tags/release","allTagsPath":"/blog/tags","count":2}')}}]);
