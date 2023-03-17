@@ -143,7 +143,7 @@ const config = {
             title: 'Rechtliches',
             items: [
               {
-                label: 'Datenschutzrklärung',
+                label: 'Datenschutzerklärung',
                 to: 'datenschutz',
               }
             ],
