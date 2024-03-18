@@ -4,10 +4,12 @@ sidebar_position: 2
 
 # BUtils.net balance
 
-If you want to get access to more challenges, you have to buy BUtils **Advanced** or **Ultimate**.
+Using the **balance** on BUtils.net, you can **[rent a server](rent-a-server)** on an hourly basis. 
+Additionally, you can **[rent a volume](rent-a-volume)** to store the server data when it is not running.
 
 :::info Requirements
 - You need to be verified on the Discord Server. **[Click here to get verified](verification)**.
+- You need to have a valid Minecraft: Java-Edition Account.
 :::
 
 ## Difference between **Advanced** and **Ultimate**
@@ -27,29 +29,32 @@ Click on the server name, select **Privacy Settings** and enable **Direct messag
 
 Open the **[#shop](https://discord.com/channels/565867543152033822/998236555833524274/)** channel to see the shop overview.
 
-## Step 3 — Choose between **subscription** and **one time purchase**
+## Step 3 — Click on BUtils.net Balance
 
-### What is the difference?
+Below the message, you can see three different buttons. Click on the **BUtils.net Balance** 
+button to start the process.
 
-A **subscription** will charge you **automatically** when your license is about to expire. 
-If you choose a subscription, you will only be able to pay with selected payment methods.
+## Step 4 — Link your Minecraft account
 
-A **one time purchase** will charge you once, but you cannot extend your license.
-You have to get a new license in order to continue using BUtils' premium version.
-If you choose a one time purchase, you will be able to pay with (nearly) every payment method.
+Join the **BUtils.net** Minecraft network with a version above **1.19.3** and type `/link` in the chat. 
+Afterwards, click the message in the chat to copy your code.
+In Discord, you click the **Link accounts** button, paste the code in the form and submit it.
 
-### How to select
+## Step 5 — Choose the top up amount
 
-You have to click the button **Subscription** in order to create a subscription.
-Otherwise, you have to click the **One time purchase** button.
+In Discord, click the **Top up** button and enter the amount you want to top up. 
+The minimum amount is **€5**. The maximum amount is **€50**.
+Afterwards, submit the form.
 
-## Step 4 — Choose your premium version
-
-You can choose between any kind of **premium version** and **license duration**.
-In order to select a specific one, you have to click the specific button below the message.
-
-## Step 5 — Complete payment process
+## Step 6 — Complete payment process
 
 After connecting your Discord account with BUtils, you will be redirected to **Xsolla**, our payment provider.
 Choose your payment method and complete the purchase.
-Afterwards, you will be redirected back to our Discord Server. Additionally, you may have received a **direct message** from BUtils containing your **license**.
+Afterwards, you will be redirected back to our Discord Server. 
+Additionally, you may have received a **direct message** from BUtils.
+
+## Step 7 — Rent a service
+
+After you have topped up your balance, you can rent a server or a volume.
+To rent a server, **[click here](rent-a-server)**.
+To rent a volume, **[click here](rent-a-volume)**.
